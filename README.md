@@ -1,2 +1,2 @@
 # ThankyouWebsite
-https://oxangyal.github.io/ThankyouWebsiteQA05/
+https://javascript05.netlify.app/
